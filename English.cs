@@ -2,19 +2,19 @@ using System.Collections.Generic;
 
 namespace ABI.CCK.Scripts.Translation
 {
-    public class English
+    public class Norwegian
     {
         public static readonly Dictionary<string, string> Localization = new Dictionary<string, string>()
         {
             {"ABI_UI_BUILDPANEL_HEADING_BUILDER", "Content Builder"},
-            {"ABI_UI_BUILDPANEL_HEADING_SETTINGS", "Settings & Options"},
-            {"ABI_UI_BUILDPANEL_HEADING_DOCUMENTATION", "View our documentation"},
-            {"ABI_UI_BUILDPANEL_HEADING_FEEDBACK", "Submit feedback"},
-            {"ABI_UI_BUILDPANEL_HEADING_FOUNDCONTENT", "Content found in active scene"},
-            {"ABI_UI_BUILDPANEL_HEADING_ACCOUNT_INFO", "Account Information"},
+            {"ABI_UI_BUILDPANEL_HEADING_SETTINGS", "Instillinger & Valg"},
+            {"ABI_UI_BUILDPANEL_HEADING_DOCUMENTATION", "Se dokumentasjonen vår"},
+            {"ABI_UI_BUILDPANEL_HEADING_FEEDBACK", "Send tilbakemelding"},
+            {"ABI_UI_BUILDPANEL_HEADING_FOUNDCONTENT", "Innhold funnet i aktiv scene"},
+            {"ABI_UI_BUILDPANEL_HEADING_ACCOUNT_INFO", "Konto Informasjon"},
             {"ABI_UI_BUILDPANEL_LOGIN_CREDENTIALS_INCORRECT", "The provided login credentials are incorrect."},
-            {"ABI_UI_BUILDPANEL_LOGIN_BUTTON", "Log in"},
-            {"ABI_UI_BUILDPANEL_LOGOUT_BUTTON", "Log out"},
+            {"ABI_UI_BUILDPANEL_LOGIN_BUTTON", "Logg inn"},
+            {"ABI_UI_BUILDPANEL_LOGOUT_BUTTON", "Logg ut"},
             {"ABI_UI_BUILDPANEL_LOGOUT_DIALOG_TITLE", "Remove local credentials for CCK"},
             {
                 "ABI_UI_BUILDPANEL_LOGOUT_DIALOG_BODY",
